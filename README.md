@@ -1,5 +1,5 @@
 # Formula 1 Assets Scraper
-This project consists of multiple scripts used to retrieve formula 1 assets like tracks, drivers and cars images
+This project consists of multiple python scripts used to retrieve formula 1 assets like tracks, drivers and cars images
 
 ## Packages
 Run the following command in order to install the necessary packages used by the scripts:
