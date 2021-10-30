@@ -11,4 +11,5 @@ Each file contains the script to download the specified assets in a separate fol
 
 * Download cars: `python cars.py`
 * Download drivers: `python drivers.py`
+* Download tracks: `python tracks.py`
 * Download team logos: `python team_logos.py`
